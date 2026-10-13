@@ -23,3 +23,4 @@ El sitio será público, incluido el correo y el PDF descargable.
 - `Maga-Aparicio-CV.pdf`: PDF descargable.
 
 No requiere instalar dependencias ni compilar. Las futuras ediciones en ChatGPT no se sincronizan automáticamente con este repositorio; hay que volver a subir los archivos modificados.
+“Incluye proyectos independientes.”
