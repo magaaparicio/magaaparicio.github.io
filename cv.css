@@ -29,3 +29,6 @@ h2,.contact h2{font-size:clamp(38px,4.4vw,76px);line-height:1.04;margin:28px 0 4
 .stage,.scroll-meter,#motion{display:none!important}main section,main .hero{width:100%;max-width:1100px;min-height:0;margin:auto;padding:65px 6%!important}main{pointer-events:auto}.metrics{display:flex;gap:30px}.metrics article{flex:1}footer{width:100%}@media(max-width:700px){.metrics{display:block}}
 .brand{font-size:18px;letter-spacing:1px;font-weight:700;white-space:nowrap}@media(max-width:700px){.brand{font-size:14px;letter-spacing:.6px}}
 .back-interactive{font-weight:600;border:1px solid #17191b;padding:10px 16px;border-radius:24px;white-space:nowrap}header nav{flex-wrap:wrap;gap:16px}header{height:auto;min-height:82px;padding-top:15px;padding-bottom:15px;gap:20px;flex-wrap:wrap}@media(max-width:700px){.back-interactive{font-size:11px}header nav{gap:12px}}
+/* Blue accent text on the light complete-CV background. */
+.capabilities em,.contact em,.skill-row>span{color:#2449ed}.capabilities .kicker,.contact .kicker{color:#2449ed}
+
