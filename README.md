@@ -1,27 +1,46 @@
-# Maga Aparicio — CV interactivo
+Maga Aparicio CV Interactivo
 
 Conectar. Construir. Transformar.
 
-Sitio estático con navegación por figuras, trayectoria, resultados, capacidades, reconocimientos y CV descargable.
+Portafolio profesional interactivo desarrollado para presentar mi trayectoria, capacidades y proyectos en estrategia de negocio, transformación digital, marketing, datos e inteligencia artificial.
 
-## Publicarlo en GitHub Pages
+Explorar CV interactivo →
 
-1. Crea un repositorio público llamado `magaaparicio.github.io` en tu cuenta `magaaparicio`.
-2. Descomprime este paquete. Sube los archivos y la carpeta `cv` a la raíz del repositorio, no el ZIP ni una carpeta contenedora. `index.html` debe aparecer en la raíz.
-3. Guarda los cambios con **Commit changes**.
-4. Ve a **Settings → Pages**. En **Source**, elige **Deploy from a branch**; selecciona **main** y **/(root)**. Guarda.
-5. GitHub mostrará el enlace cuando termine de publicar: https://magaaparicio.github.io/
+Sobre el proyecto
 
-El sitio será público, incluido el correo y el PDF descargable.
+La idea fue ir más allá del formato tradicional de un currículum y construir una experiencia digital que conectara mi trayectoria profesional con los proyectos y soluciones que he desarrollado.
 
-## Editar
+El sitio integra navegación interactiva, elementos visuales y contenido estructurado para facilitar la exploración de mi experiencia, resultados y capacidades.
 
-- `interactive.js`: textos de las cinco secciones y selector de puestos.
-- `interactive.css`: diseño, colores y tamaños.
-- `content.js`: responsabilidades y contribuciones completas de los puestos.
-- `cv.html` y `cv/index.html`: vista completa del CV.
-- `Maga-Aparicio-CV.pdf`: PDF descargable.
+También funciona como un espacio en evolución, donde incorporo proyectos independientes relacionados con tecnología, inteligencia artificial y automatización.
 
-No requiere instalar dependencias ni compilar. Las futuras ediciones en ChatGPT no se sincronizan automáticamente con este repositorio; hay que volver a subir los archivos modificados.
-“Incluye proyectos independientes.”
-“Versión con seis secciones.”
+Tecnologías utilizadas
+
+HTML5
+
+CSS3
+
+JavaScript
+
+GitHub Pages
+
+Características
+
+Diseño interactivo y navegación visual.
+
+Secciones de experiencia profesional, capacidades y reconocimientos.
+
+Espacio dedicado a proyectos independientes.
+
+Versión completa del CV y documento descargable.
+
+Publicación mediante GitHub Pages.
+
+Objetivo
+
+Explorar nuevas formas de presentar la experiencia profesional y demostrar cómo la tecnología puede utilizarse para construir experiencias digitales más dinámicas, accesibles y conectadas.
+
+Maga Aparicio
+Digital Transformation | Business Strategy | AI & MarTech
+
+Ver portafolio · Perfil de GitHub
