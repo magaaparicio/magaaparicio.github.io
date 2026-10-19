@@ -1,46 +1,37 @@
-Maga Aparicio CV Interactivo
 
-Conectar. Construir. Transformar.
+# CV Interactivo | Maga Aparicio
 
-Portafolio profesional interactivo desarrollado para presentar mi trayectoria, capacidades y proyectos en estrategia de negocio, transformación digital, marketing, datos e inteligencia artificial.
+**Conectar. Construir. Transformar.**
 
-Explorar CV interactivo →
+Portafolio profesional interactivo que reúne mi trayectoria, capacidades y proyectos en estrategia de negocio, transformación digital, marketing, datos e inteligencia artificial.
 
-Sobre el proyecto
+### [Explorar mi CV interactivo →](https://magaaparicio.github.io/)
 
-La idea fue ir más allá del formato tradicional de un currículum y construir una experiencia digital que conectara mi trayectoria profesional con los proyectos y soluciones que he desarrollado.
+---
 
-El sitio integra navegación interactiva, elementos visuales y contenido estructurado para facilitar la exploración de mi experiencia, resultados y capacidades.
+## Sobre el proyecto
 
-También funciona como un espacio en evolución, donde incorporo proyectos independientes relacionados con tecnología, inteligencia artificial y automatización.
+La idea fue ir más allá del currículum tradicional y construir una experiencia digital que conectara mi trayectoria profesional con los proyectos y soluciones que he desarrollado.
 
-Tecnologías utilizadas
+El sitio combina navegación interactiva, diseño visual y contenido estructurado para explorar mi experiencia, resultados y capacidades.
 
-HTML5
+Es también un espacio en evolución donde incorporaré nuevos proyectos relacionados con tecnología, inteligencia artificial y automatización.
 
-CSS3
+## Tecnologías
 
-JavaScript
+`HTML5` · `CSS3` · `JavaScript` · `GitHub Pages`
 
-GitHub Pages
+## Características
 
-Características
+- Navegación visual e interactiva.
+- Experiencia y resultados profesionales.
+- Capacidades y reconocimientos.
+- Proyectos independientes.
+- CV completo y versión descargable.
 
-Diseño interactivo y navegación visual.
+---
 
-Secciones de experiencia profesional, capacidades y reconocimientos.
-
-Espacio dedicado a proyectos independientes.
-
-Versión completa del CV y documento descargable.
-
-Publicación mediante GitHub Pages.
-
-Objetivo
-
-Explorar nuevas formas de presentar la experiencia profesional y demostrar cómo la tecnología puede utilizarse para construir experiencias digitales más dinámicas, accesibles y conectadas.
-
-Maga Aparicio
+**Maga Aparicio**  
 Digital Transformation | Business Strategy | AI & MarTech
 
-Ver portafolio · Perfil de GitHub
+[Ver portafolio](https://magaaparicio.github.io/) · [Perfil de GitHub](https://github.com/magaaparicio)
