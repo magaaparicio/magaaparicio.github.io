@@ -128,3 +128,6 @@ footer{padding:0 3.3%}
 
 /* Hide the redundant secondary navigation strip sitewide. */
 .secondary{display:none!important}
+
+/* Green background for the independent projects overview only. */
+body[data-view="proyectos"]{--paper:#a8d9bd;--ink:#17191b}
