@@ -125,3 +125,6 @@ footer{padding:0 3.3%}
 
 @media(min-width:701px){main{grid-template-columns:minmax(0,48fr) minmax(0,52fr)}}
 .choices .sphere-choice:focus-visible .shape-outline{stroke-width:3}
+
+/* Hide the redundant secondary navigation strip sitewide. */
+.secondary{display:none!important}
