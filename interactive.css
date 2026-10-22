@@ -131,3 +131,5 @@ footer{padding:0 3.3%}
 
 /* Consistent green background for independent projects and their detail pages. */
 body[data-view="proyectos"],body[data-view="theindustry"],body[data-view="juegos"]{--paper:#a8d9bd;--ink:#17191b}
+ 
+body[data-view="monstertower"]{--paper:#a8d9bd;--ink:#17191b}
